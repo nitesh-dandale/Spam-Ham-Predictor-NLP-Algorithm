@@ -1,3 +1,3 @@
-# IMDB-Reviews-NLP-Algorithm
+# Spam-Ham-Emails-Predictor-NLP-Algorithm
 This is a repository of Data-Science NLP Algorithm
 Built by Nitesh Dandale
